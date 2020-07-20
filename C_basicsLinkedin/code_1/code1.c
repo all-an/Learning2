@@ -17,7 +17,7 @@
     return(0);
 }*/
 
-int main()
+/*int main()
 {
     float pi;
 
@@ -25,6 +25,6 @@ int main()
     printf("The ancients calculated PI as %f.\n", pi);
 
     return(0);
-}
+}*/
 
                                                                                                                    
